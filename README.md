@@ -14,4 +14,4 @@ alias alias lpw='ls -l;pwd;whoami'
 今日も今日とてLinux
 
 検索するコマンド
-find . -type d -name ".git"
+find . -type d -name ".git"　便利そうだね
